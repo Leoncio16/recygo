@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="50px" viewBox="0 0 200 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Refill &amp; Go Logo</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(10, 5)">
+            <!-- Bottle Icon -->
+            <path d="M20,0 C17.5,0 15.5,2 15.5,4.5 L15.5,10 L10,10 L10,15 C10,17.5 12.5,20 15,20 L25,20 C27.5,20 30,17.5 30,15 L30,10 L24.5,10 L24.5,4.5 C24.5,2 22.5,0 20,0 Z" fill="#4CAF50"/>
+            <!-- Leaf -->
+            <path d="M35,5 C40,5 45,10 45,15 C45,20 40,25 35,25 C30,25 25,20 25,15 C25,10 30,5 35,5 Z" fill="#8BC34A"/>
+            <!-- Text -->
+            <text font-family="Montserrat, sans-serif" font-size="20" font-weight="600" fill="#424242">
+                <tspan x="50" y="20">Refill &amp; Go</tspan>
+            </text>
+            <!-- Tagline -->
+            <text font-family="Poppins, sans-serif" font-size="10" font-weight="400" fill="#4CAF50">
+                <tspan x="50" y="35">Zero-Waste Refill Service</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

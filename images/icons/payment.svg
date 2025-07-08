@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Payment Icon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(10, 20)">
+            <!-- Smartphone -->
+            <rect x="20" y="0" width="40" height="70" rx="5" fill="#424242"/>
+            <rect x="25" y="5" width="30" height="50" rx="2" fill="#81C784"/>
+            <!-- Payment Symbol -->
+            <circle cx="40" cy="35" r="15" fill="white" opacity="0.8"/>
+            <path d="M35,35 L45,35 M40,30 L40,40" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
+            <!-- NFC Waves -->
+            <path d="M70,25 C75,30 75,40 70,45" stroke="#FFC107" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+            <path d="M75,20 C83,30 83,40 75,50" stroke="#FFC107" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+            <!-- Home Button -->
+            <circle cx="40" cy="65" r="5" stroke="#BDBDBD" stroke-width="2" fill="none"/>
+        </g>
+    </g>
+</svg>

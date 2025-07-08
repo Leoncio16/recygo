@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Go Icon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(10, 10)">
+            <!-- Person -->
+            <circle cx="40" cy="20" r="15" fill="#4CAF50"/>
+            <!-- Body -->
+            <path d="M30,35 L50,35 L55,70 L45,70 L40,50 L35,70 L25,70 L30,35 Z" fill="#4CAF50"/>
+            <!-- Arms -->
+            <path d="M30,35 L15,55 L20,60 L35,40 L30,35 Z" fill="#4CAF50"/>
+            <path d="M50,35 L65,55 L60,60 L45,40 L50,35 Z" fill="#4CAF50"/>
+            <!-- Bottle -->
+            <path d="M60,45 C57.5,45 55,47.5 55,50 L55,55 L50,55 L50,60 C50,62.5 52.5,65 55,65 L65,65 C67.5,65 70,62.5 70,60 L70,55 L65,55 L65,50 C65,47.5 62.5,45 60,45 Z" fill="#8BC34A"/>
+            <!-- Arrow -->
+            <path d="M75,40 L85,50 L75,60 L75,55 L65,55 L65,45 L75,45 L75,40 Z" fill="#FFC107"/>
+        </g>
+    </g>
+</svg>
